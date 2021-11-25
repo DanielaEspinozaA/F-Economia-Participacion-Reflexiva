@@ -1,13 +1,8 @@
 ---
 title: "Participación Reflexiva"
-author: "Nombre"
+author: "Daniela Espinoza"
 date: "202020: `r Sys.Date()`"
-output:
-  unilur::tutorial_pdf:
-    suffix: ""
-    toc: no
-pkgdown:
-  as_is: true
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}
