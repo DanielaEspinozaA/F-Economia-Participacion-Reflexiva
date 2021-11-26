@@ -9,19 +9,27 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-## Semana X
+## Semana 3
 
 Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+En esta semana se aprendieron conceptos como el costo de oportunidad, ventaja absoluta y comparativa, exportaciones e importaciones, las condiciones de la competencia perfecta, la metáfora de la mano invisible creada por Adam Smith y la demanda.
+El costo de oportunidad es a lo que se está dispuesto a renunciar para conseguir algo esto se puede relacionar con el objetivo (RA6) Identificar y utilizar técnicas modernas de ingeniería para la resolución eficaz de problemas de asignación de recursos.
 
 Describa conocimientos previos en realación al tema
+Se tenía conocimiento de los conceptos de importación, exportación y demanda pero no a mayor profundidad.
 
 ¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+El costo de oportunidad, que se describió anteriormente, se puede utilizar en situaciones de la vida cotidiana donde se presentan alternativas donde hay algo que perder. Por lo tanto se analizan las opciones y se elige la que entrega más beneficios. Por ejemplo: ir a la universidad en auto, bicicleta o transporte público, aquí se puede analizar el tiempo, el dinero, el desgaste físico, etc.
+También las importaciones, se ven cotidianamente en nuestra despensa, ropa, etc. 
 
 ¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+Muy relacionado con lo anterior, el concepto de costo de oportunidad a futuro se utilizará pero a mayor escala, desde una visión más empresarial.
 
 Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
+No hubo trabajo grupal en clases
 
 ¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
+Diferenciar entre ventaja comparativa y absoluta, los beneficios del comercio internacional, las condiciones de una competencia perfecta.
 
 ## Semana Y
 
