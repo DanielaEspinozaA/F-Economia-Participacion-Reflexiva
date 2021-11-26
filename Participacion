@@ -1,7 +1,7 @@
 ---
 title: "Participación Reflexiva"
 author: "Daniela Espinoza"
-date: "202020: `r Sys.Date()`"
+date: "Noviembre 2021: `r Sys.Date()`"
 output: pdf_document
 ---
 
@@ -14,33 +14,129 @@ knitr::opts_chunk$set(echo = TRUE)
 Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
 En esta semana se aprendieron conceptos como el costo de oportunidad, ventaja absoluta y comparativa, exportaciones e importaciones, las condiciones de la competencia perfecta, la metáfora de la mano invisible creada por Adam Smith y la demanda.
 El costo de oportunidad es a lo que se está dispuesto a renunciar para conseguir algo esto se puede relacionar con el objetivo (RA6) Identificar y utilizar técnicas modernas de ingeniería para la resolución eficaz de problemas de asignación de recursos.
+También los contenidos se pueden relacionar con los siguientes objetivos (RA2) Interpretar datos para enunciar potenciales relaciones entre variables y (RA3) Describir y simular modelos económicos para establecer la dinámica de relaciones entre variables.
 
 Describa conocimientos previos en relación al tema
-Se tenía conocimiento de los conceptos de importación, exportación y demanda pero no a mayor profundidad.
+Conocía los conceptos de importación, exportación y demanda pero no a mayor profundidad.
 
 ¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
 El costo de oportunidad, que se describió anteriormente, se puede utilizar en situaciones de la vida cotidiana donde se presentan alternativas donde hay algo que perder. Por lo tanto se analizan las opciones y se elige la que entrega más beneficios. Por ejemplo: ir a la universidad en auto, bicicleta o transporte público, aquí se puede analizar el tiempo, el dinero, el desgaste físico, etc.
-También las importaciones, se ven cotidianamente en nuestra despensa, ropa, etc. 
+También las importaciones, se ven cotidianamente en nuestra despensa, ropa, restaurantes, entre otros. 
 
 ¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
 Muy relacionado con lo anterior, el concepto de costo de oportunidad a futuro se utilizará pero a mayor escala, desde una visión más empresarial.
 
 Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
-No hubo trabajo grupal en clases
+No hubo trabajo grupal en clases.
 
 ¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
 Diferenciar entre ventaja comparativa y absoluta, los beneficios del comercio internacional, las condiciones de una competencia perfecta.
 
-## Semana Y
+
+## Semana 5 
 
 Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+En esta semana se aprendió el concepto de equilibrio y sus alteraciones obteniendo como por ejemplo la escasez y el excedente.
+Este tema se relaciona con los objetivos: (RA2) Interpretar datos para enunciar potenciales relaciones entre variables, (RA3) Describir y simular modelos económicos para establecer la dinámica de relaciones entre variables y (RA6) Identificar y utilizar técnicas modernas de ingeniería para la resolución eficaz de problemas de asignación de recursos.
 
 Describa conocimientos previos en relación al tema
+Conocía el término de equilibrio pero no sus alteraciones y consecuencias.
 
 ¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+Los conceptos ayudan a entender los efectos del exceso de oferta y demanda por lo que se puede utilizar está herramienta para saber, a largo plazo, cuando comprar un producto.
 
 ¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+Estos conceptos son fundamentales para poder analizar cómo la economía va cambiando y cuáles son las razones del por qué lo hace. Por lo tanto se tendrán estas herramientas.
 
 Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
+El trabajo grupal se basó en la tarea 2 donde se tenía que hacer la frontera de posibilidades de producción y los costos del área. Esto ayudó a comprender mejor cómo funciona
 
 ¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
+Reconocer cuándo ocurre la escasez y el excedente, conocer los efectos del incremento y decremento de la oferta y demanda. Analizar los cambios del equilibrio.
+
+
+## Semana 6
+
+Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+En esta semana se aprendió la elasticidad, eficiencia, economía del bienestar y excedentes.  La primera mide la capacidad de respuesta ante cambios en la cantidad de oferta y demanda cuando los determinantes varían, ya sea de demanda u oferta según sea el caso. Los excedentes se distribuyen entre consumidor y productor, el excedente del consumidor es a lo que está dispuesto el sujeto a pagar por un bien menos lo que paga mientras que el del productor es la cantidad que recibe menos lo que costó proporcionar el bien. Siendo el excedente total la suma de ambos.
+Los objetivos relacionados a esta semana son (RA2) Interpretar datos para enunciar potenciales relaciones entre variables, (RA3) Describir y simular modelos económicos para establecer la dinámica de relaciones entre variables y (RA4) Identificar problemáticas económicas para establecer planes contingentes a todo sector productivo.
+
+Describa conocimientos previos en relación al tema
+No existían conocimientos previos.
+
+¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+La elasticidad es un concepto que permite entender el comportamiento de ciertos aumento y disminución de precios en bienes y esto posibilita entender el por qué ocurren. Como el clásico ejemplo de los medicamentos.
+
+¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+Los excedentes permitirán evaluar los costos que deban realizar para obtener el mayor beneficio posible y con respecto a la elasticidad está brindará conocimiento de la economía más amplia para tomar decisiones en una empresa.
+
+Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
+Poder internalizar más la materia ya que vimos los costos que es un concepto relacionado con los excedentes.
+
+¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
+Identificar los tipos de elasticidad, poder representar el excedente del productor y consumidor mediante un gráfico y calcularlos con ayuda de este.
+
+## Semana 9
+
+Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+En esta semana se aprendieron las fallas del mercado siendo una de ellas las externalidades. Estas son situaciones que afectan a otros de manera positiva o negativa, sin que estos reciban algún tipo de compensación. También se estudiaron los tipos de intervención y bienes.
+Estos contenidos se relacionan con los siguientes objetivos (RA4) Identificar problemáticas económicas para establecer planes contingentes a todo sector productivo, (RA5) Identificar problemas de ingeniería para ser resueltos con teoría económica y (RA6) Identificar y utilizar técnicas modernas de ingeniería para la resolución eficaz de problemas de asignación de recursos.
+
+Describa conocimientos previos en relación al tema
+Se tenía un leve conocimiento respecto a los tipos de bienes.
+
+¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+Hablando con respecto a las externalidades, estas son parte de nuestro día a día ya que al vivir en sociedad, ciertas acciones repercuten en otros negativa o positivamente. Esto genera una mayor concientización, a ser más empáticos con el que está al lado.
+
+¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+Muy relacionado con lo anterior sólo que a mayor escala ya que como ingeniero se tomarán decisiones que tendrán consecuencias por lo que se deberá analizar cómo estas afectan a otros y de qué manera.
+
+Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
+No hubo trabajo grupal en clases.
+
+¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
+Diferenciar los tipos de externalidades, bienes e intervención.
+
+
+## Semana 11
+
+Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+En esta semana se aprendieron conceptos como desigualdad y pobreza, trabajo y discriminación. Los objetivos relacionados a estas temáticas son (RA4) Identificar problemáticas económicas para establecer planes contingentes a todo sector productivo, (RA5) Identificar problemas de ingeniería para ser resueltos con teoría económica y (RA6) Identificar y utilizar técnicas modernas de ingeniería para la resolución eficaz de problemas de asignación de recursos.
+
+Describa conocimientos previos en relación al tema
+Conocía la mayoría de los conceptos de manera superficial, sin mucha profundización.
+
+¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+Hoy en día la desigualdad ha dado qué hablar estos días. Si bien esta no es un problema, es normal, el problema son las injusticias y eso es lo que se debe resolver. Por eso es importante visibilizar estos tipos de problemáticas, pobreza, desigualdad, dicriminación y ser empáticos.
+
+¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+Los contenidos son fundamentales para la formación ya que los contenidos son conceptos que ayudan a visibilizar la realidad de muchos. Por lo que a futuro, en nuestro trabajo como ingenieros, deberíamos ser parte de la ayuda o solución a estos problemas y no lo opuesto.
+
+Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
+No hubo trabajo grupal en clases.
+
+¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
+Entender y graficar el coeficiente de Gini, la curva de Lorenz. Encontrar matemáticamente hablando el equilibrio de mercado de trabajo, analizar el por qué y cómo afectan ciertas circunstancias al mercado laboral
+
+
+## Semana 12
+
+Objetivos de aprendizaje relacionados y por qué (detalle relaciones de contenidos con los objetivos de aprendizaje definidos en el Syllabus)
+En esta semana se aprendieron conceptos relacionados al costo de vida como el índice de precios al consumidor (IPC) e inflación. Relacionado al ingreso el producto interno bruto (PIB) este es clasificado según si su valor es conforme a los precios actuales (nominal) o  a precios constantes (real) y el desempleo.
+Los objetivos relacionados a estos conceptos son (RA2) Interpretar datos para enunciar potenciales relaciones entre variables, (RA4) Identificar problemáticas económicas para establecer planes contingentes a todo sector productivo.
+
+Describa conocimientos previos en relación al tema
+Conocía superficialmente los conceptos.
+
+¿Qué contenido tiene un impacto en mi cotidianeidad y cómo puedo utilizarlo para mejorarla?
+Debido a la pandemia se produjo una mayor cantidad de desempleo, el cual afectó a la realidad de muchos. También el coronavirus afectó la economía del país reflejado en el IPC e inflación.
+
+¿Cuál es la relevancia que tienen los contenidos respecto de mi formación como ingeniero?
+Los contenidos ayudarán a analizar los comportamientos de la economía.
+
+Si hubo trabajo grupal: ¿En qué me sirvió el trabajo grupal?
+No hubo trabajo grupal en clases.
+
+¿Qué debo ser capaz de hacer para mostrar que domino los conceptos?
+Calcular deflactor, tasas de inflación, IPC y PIB. Entender qué o cómo estos conceptos indican o afectan en la economía. Diferenciar los tipos de PIB.
+
